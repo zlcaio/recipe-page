@@ -17,7 +17,7 @@ This is a simple recipe page built with HTML and CSS inspired in the Tudogostoso
 
 # How to open
 
-1. Clone the repositorie to your local machine 
+1. Clone the repository to your local machine 
 2. Open the "index.html" file
 
 Feel free to customize and make changes at your will! 
